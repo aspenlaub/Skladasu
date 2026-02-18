@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Skladasu.csproj" />
+  <Project Path="Test/Skladasu.Test.csproj" />
+</Solution>
